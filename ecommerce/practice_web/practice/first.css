@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+div.wrapper {
+   
+  border: 2px solid black;
+  width: 500px;
+  display: grid;
+  grid-template-columns:100px 2 00px 100px 100px ;
+ 
+
+}
+
+div.grid {
+    border: 2px solid red;
+	height: 62px;
+    
+    display: grid;
+   
+  
+}
