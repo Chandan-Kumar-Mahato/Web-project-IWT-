@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+article{
+    background-color: #ffff;
+   display: flex;
+   justify-content: center;
+}
+div.container{
+    margin-top: 20px;
+    background-color: #ffff;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0px 0.03px 1px rgba(0,0,0,1);
+    margin-bottom: 10px;
+   
+}
+img.top{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 90px;
+    width: 200px;
+}
+input{
+    height: 30px;
+    width: 260px;
+   margin: 3px;
+}
+input.pass{
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
+p.hove{
+    width: 250px; 
+    margin-left: 40px;
+    padding: 8px;
+    color: #ffff;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: #00b4d8;
+}
+ p.hove:hover{
+    background-color: #268ea3;
+   }
+.log a{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight:bolder ;
+    color: #ffff;
+}
+hr{
+    margin-top: 10px;
+	height: 0.01px;
+	width: 38%;
+	
+}
+span.line{
+	color: #6c757d;
+    margin: 0px 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.face a{
+    font-size: 14px;
+    color: #457b9d;
+    font-weight: 600;
+    margin-top: 10px;
+    font-family: sans-serif;
+
+}
+div.wrapper{
+	display: flex;
+    justify-content: center;
+	color: black;
+	margin-top: 30px;
+}   
+img.logo{
+    margin-top: 20px;
+    height: 15px;
+    width: 15px;
+    margin-left: 0;
+    
+}
+
+.forogot a{
+    font-family: sans-serif;
+}
+div.forgot{
+    margin-top: 20px;
+}
+div.face{
+    display: flex;
+    justify-content: center;
+}
+.face img{
+    margin-right: 4px;
+    margin-top: 10px;
+}
+span{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color:#00b4d8 ;
+}
+div.subcontainer{
+    height: 60px;
+    width: 350px;
+    box-shadow: 0px 0.02px 1px rgba(0,0,0,1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p.down{
+    margin-top: 15px;
+    text-align: center;
+}
+div.below{
+    display: flex;
+    justify-content: center;
+}
+
+.below img{
+    height: 60px;
+    width: 160px;
+}
+div.collector{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    color: #6c757d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+p.last{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color: #6c757d;
+}
+footer{
+    margin-bottom: 50px;
+}
